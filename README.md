@@ -12,4 +12,4 @@
 
 # Bootstrap Documentation 🌐
 
-## 1. How to use it in the project?
+### 1. How to use it in the project?
