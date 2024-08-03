@@ -31,3 +31,4 @@ c) Or can be **installed** with Node.js in a framework like Angular, React or Vu
 npm install bootstrap@5.3.3
 ```
 
+# What are the principal funcionalities? 💎
