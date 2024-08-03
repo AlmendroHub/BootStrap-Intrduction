@@ -31,9 +31,10 @@ c) Or can be **installed** with Node.js in a framework like Angular, React or Vu
 npm install bootstrap@5.3.3
 ```
 
+# How can I get started? ⬇️
+
+Give us the posibility of use a simplify code and save working hours because every item contains a basic design and help us to make a responsive code for any device.
+
+Here you can find examples of Boostrap buttons, lists, dropdowns, etc. => https://getbootstrap.com/docs/5.3/examples/
+
 # What are the principal funcionalities? 💎
-
-Give us the posibility of use a simplify code and save working hours because every item contains a basic design and responsive for any device.
-
-Here you can find examples of Boostrap buttons, lists, dropdowns...
-https://getbootstrap.com/docs/5.3/examples/
