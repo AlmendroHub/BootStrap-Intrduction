@@ -12,7 +12,7 @@
 
 # Bootstrap Documentation 🌐
 
-### 1. How to use it in the project?
+### How to use it in the project?
 
 It's easy, the 3 most popular ways to use it are:
 
@@ -32,3 +32,8 @@ npm install bootstrap@5.3.3
 ```
 
 # What are the principal funcionalities? 💎
+
+Give us the posibility of use a simplify code and save working hours because every item contains a basic design and responsive for any device.
+
+Here you can find examples of Boostrap buttons, lists, dropdowns...
+https://getbootstrap.com/docs/5.3/examples/
