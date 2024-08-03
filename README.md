@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://i.imgur.com/bGPUhmg.png" width="400" height="200">
+    <img src="https://i.imgur.com/bGPUhmg.png" width="200" height="200">
   </a>
 </p>
 
