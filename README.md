@@ -5,5 +5,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/downloads-+500M-5555ff" alt="Total Downloads">
   <img src="https://img.shields.io/badge/version-v5-green" alt="TLatest Stable Version">
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License">
 </p>
