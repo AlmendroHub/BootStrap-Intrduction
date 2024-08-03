@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/key-value-5555ff">
-  <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
-  <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+  <img src="https://img.shields.io/badge/downloads-+500M-5555ff" alt="Total Downloads">
+  <img src="https://img.shields.io/badge/version-v5-green" alt="TLatest Stable Version">
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
