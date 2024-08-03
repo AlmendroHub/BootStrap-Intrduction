@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License">
 </p>
 
-## Bootstrap Documentation 🌐
+# Bootstrap Documentation 🌐
 
-# 1. How to use it in the project?
+## 1. How to use it in the project?
