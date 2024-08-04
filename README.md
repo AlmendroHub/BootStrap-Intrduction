@@ -93,7 +93,10 @@ And you can also include **Popper** and our **JS** separately. If you don’t pl
 # Anything that I should know? 🌌
 
 ### 1. Boostrap Icons: 
-One of the best thing of this frameworks is that contains it's own icon system, where you can use it with only one line.
+One of the best thing of this frameworks is that contains it's own icon system, where you can use it with only one line imporing this line to the project:
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+````
 ```
 <i class="bi bi-airplane-engines-fill"></i>
 ```
