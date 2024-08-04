@@ -82,6 +82,8 @@ Once verified that Boostrap is working in our project, we can start using it in 
 ```
 As you can see, it's easy to make an element without using CSS, only with the magic of HTML and Boostrap.
 
+I leave here the link to access the documentation and see how each element can be created with the framework => https://getbootstrap.com/docs/5.3/forms/overview/
+
 And you can also include Popper and our JS separately. If you don’t plan to use dropdowns, popovers, or tooltips, save some kilobytes by not including Popper.
 ```
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
